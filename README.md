@@ -17,4 +17,7 @@ Procedures:
 
 Try to open your obsolete beta version again :)
 
+![](https://github.com/kljsandjb/CleanMyMacX_Patch/blob/master/WX20180708-143235%402x.png)
+
+![](https://github.com/kljsandjb/CleanMyMacX_Patch/blob/master/WX20180708-143208%402x.png)
 
